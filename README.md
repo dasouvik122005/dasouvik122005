@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello Everyone...
 
 - 🔭 I’m currently working on Full stack web development 
 - 🌱 I’m currently learning R and 
