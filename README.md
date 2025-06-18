@@ -1,6 +1,6 @@
 Hello Everyone...
 
-- 🔭 I’m currently working on Full stack web development 
+- 🔭 I’m currently working on Frontend web development 
 - 🌱 I’m currently learning R and 
 - 👯 I’m looking to collaborate on Web development projects
 - 🤔 I’m looking for help with 
