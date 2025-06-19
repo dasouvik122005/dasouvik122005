@@ -4,7 +4,7 @@ Hello Everyone...
 
 🔭 I’m currently working on Frontend web development<br/>
 👯 I’m looking to collaborate on Web development projects<br/>
-💬 Ask me about C, C++, JavaScript, HTML, CSS<br/>
+💬 Ask me about C, JavaScript, HTML, CSS<br/>
 📫 Feel free to connect with me on LinkedIn or check out my work here on GitHub!<br/>
 
 ---
