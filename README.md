@@ -29,6 +29,14 @@ Hi, I'm Souvik Das, a B.Tech CSE student at JIS University with a strong interes
 ![](https://github-readme-stats.vercel.app/api?username=dasouvik122005&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dasouvik122005&theme=aura&hide_border=false)<br/>
 
+---
+
+## 🐍 My Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dasouvik122005/dasouvik122005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dasouvik122005/dasouvik122005/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dasouvik122005/dasouvik122005/output/github-snake.svg" />
+</picture>
 
 ---
 
