@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=poly&color=gradient&customColorList=0f2027,203a43,2c5364&height=180&section=header&text=SOUVIK%20DAS&fontSize=60&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=Computer%20Science%20%7C%20Machine%20Learning&descSize=16&descAlignY=70" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,2c3e50&height=200&section=header&text=SOUVIK%20DAS&fontSize=60&animation=fadeIn&fontColor=ffffff&desc=Computer%20Science%20%7C%20Machine%20Learning&descSize=20&descAlignY=60" width="100%" alt="Header" />
 
   <br/>
 
@@ -17,7 +17,7 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=Building+logic+with+C%2B%2B+and+Python.;Crafting+interfaces+with+JS+and+React.;Exploring+the+world+of+AI+Models." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3591F7&background=00000000&center=true&vCenter=true&width=500&lines=Building+logic+with+C%2B%2B+and+Python.;Crafting+interfaces+with+JS+and+React.;Exploring+the+world+of+AI+Models." alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 ### ⚡ **Engineer's Log**
 
-<img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/hrRJ41JB2zlg7abxnL/giphy.gif" />
+<img align="right" alt="Coding" width="35%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 I am **Souvik**, a **Computer Science Student** focusing on the intersection of Software Engineering and Data Science.
 
@@ -82,5 +82,5 @@ I believe in writing code that is **clean, efficient, and scalable**. My current
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=poly&color=gradient&customColorList=2c5364,203a43,0f2027&height=80&section=footer&text=Souvik%20Das&fontSize=14&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c3e50,000000&height=80&section=footer&text=Souvik%20Das&fontSize=14&fontColor=ffffff" width="100%" />
 </div>
