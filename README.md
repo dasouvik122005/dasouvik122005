@@ -86,6 +86,3 @@ I believe in writing code that is **clean, efficient, and scalable**. My current
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dasouvik122005&label=Profile%20Views&color=3591F7&style=for-the-badge" alt="Profile Views"/>
-</div>
