@@ -5,7 +5,7 @@
   
   <br/><br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3591F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Souvik+Das!;Frontend+Developer+%26+Designer;Building+Digital+Experiences." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3591F7&center=true&vCenter=true&width=380&lines=Hi%2C+I'm+Souvik+Das!;Frontend+Developer;Building+Digital+Experiences." alt="Typing SVG" />
 
   <p>
     <a href="https://linkedin.com/in/souvik-das-597a0b300"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -17,27 +17,20 @@
 ---
 
 ### 🧐 About Me
-<table>
-  <tr>
-    <td width="60%">
-      Hi, I'm <b>Souvik</b>! I am a <b>B. Tech CSE student</b> at JIS University with a passion for combining logic with design. <br/><br/>
-      I specialize in <b>Frontend Development</b> and enjoy creating intuitive, dynamic user experiences. When I'm not coding, I'm exploring Digital Marketing trends or designing graphics on Canva.
-      <br/><br/>
-      🌱 <b>Currently learning:</b> React.js & Advanced UI/UX<br/>
-      👯 <b>Looking to collaborate on:</b> Open Source Web Projects<br/>
-      💬 <b>Ask me about:</b> C, JavaScript, CSS Animations
-    </td>
-    <td width="40%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%"/>
-      </div>
-    </td>
-  </tr>
-</table>
+Hi, I'm **Souvik**! I am a **B.Tech CSE student** at JIS University with a passion for combining logic with design.
+
+I specialize in **Frontend Development** and enjoy creating intuitive, dynamic user experiences. When I'm not coding, I'm exploring Digital Marketing trends or designing graphics on Canva.
+
+* 🌱 **Currently learning:** React.js & Advanced UI/UX
+* 👯 **Looking to collaborate on:** Open Source Web Projects
+* 💬 **Ask me about:** C, JavaScript, CSS Animations
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 
 ---
 
-### 🛠️ Tech Stack
 <h3 align="center">🛠️ Languages & Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -45,9 +38,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  
   <br/>
-  
   <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
