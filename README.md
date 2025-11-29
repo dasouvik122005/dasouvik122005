@@ -1,6 +1,9 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=141E30,243B55&height=200&section=header&text=SOUVIK%20DAS&fontSize=60&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=Computer%20Science%20%7C%20Machine%20Learning&descSize=20&descAlignY=70" width="100%" alt="Header" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;" />
+
+  <h1 align="center">Hi, I'm Souvik Das 👨‍💻</h1>
+  <h3 align="center">🚀 Frontend Developer | 🤖 Machine Learning Enthusiast</h3>
 
   <br/>
 
@@ -17,7 +20,7 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=243B55&background=00000000&center=true&vCenter=true&width=500&lines=Building+logic+with+C%2B%2B+and+Python.;Crafting+interfaces+with+JS+and+React.;Exploring+the+world+of+AI+Models." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3591F7&background=00000000&center=true&vCenter=true&width=500&lines=Building+logic+with+C%2B%2B+and+Python.;Crafting+interfaces+with+JS+and+React.;Exploring+the+world+of+AI+Models." alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,7 +28,11 @@
 
 ### ⚡ **Engineer's Log**
 
-<img align="right" alt="Coding" width="35%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
+</div>
+
+<br/>
 
 I am **Souvik**, a **Computer Science Student** focusing on the intersection of Software Engineering and Data Science.
 
@@ -35,7 +42,7 @@ I believe in writing code that is **clean, efficient, and scalable**. My current
 * 🧠 **Current Focus:** Machine Learning & Neural Networks
 * 🎯 **Career Goal:** AI-Integrated Web Solutions
 
-<br clear="all" />
+<br/>
 
 ---
 
@@ -43,13 +50,13 @@ I believe in writing code that is **clean, efficient, and scalable**. My current
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Languages-000000?style=flat-square&color=141E30" />
+  <img src="https://img.shields.io/badge/Languages-000000?style=flat-square&color=24292e" />
   <br/>
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js&perline=5&theme=dark" />
   
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Dev_Tools-000000?style=flat-square&color=141E30" />
+  <img src="https://img.shields.io/badge/Dev_Tools-000000?style=flat-square&color=24292e" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=5&theme=dark" />
 
@@ -60,27 +67,17 @@ I believe in writing code that is **clean, efficient, and scalable**. My current
 ### 📊 **GitHub Activity**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dasouvik122005&theme=react-dark&hide_border=true&area=true&color=ffffff" width="100%" />
-</div>
-
-<br/>
-
-<details>
-<summary><b>🔻 View Metrics & Contribution Snake</b></summary>
-<br/>
-<div align="center">
-  <img src="https://github.com/dasouvik122005/dasouvik122005/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-  <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dasouvik122005/dasouvik122005/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dasouvik122005/dasouvik122005/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/dasouvik122005/dasouvik122005/output/github-snake.svg" />
   </picture>
 </div>
-</details>
 
----
+<br/>
 
+<details>
+<summary><b>🔻 View Detailed Activity Graph</b></summary>
+<br/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=243B55,141E30&height=80&section=footer&text=Souvik%20Das&fontSize=14&fontColor=ffffff" width="100%" />
-</div>
+  <img src="
