@@ -1,70 +1,95 @@
+<!-- Header -->
 <div align="center">
-  <a href="#-about-me">About Me</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-analytics">Analytics</a>
-  
-  <br/><br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3591F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Souvik+Das!;Frontend+Developer;Building+Digital+Experiences." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,000000&height=140&section=header&text=SOUVIK%20DAS&fontSize=56&fontColor=00bfff&animation=glow" width="100%"/>
 
   <p>
-    <a href="https://linkedin.com/in/souvik-das-597a0b300"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:arka122005@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-    <a href="https://github.com/dasouvik122005"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    <a href="#about-me">About</a> •
+    <a href="#tech-stack">Tech</a> •
+    <a href="#projects">Projects</a> •
+    <a href="#analytics">Analytics</a>
+  </p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3591F7&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Souvik+Das!;Frontend+Developer;Building+Digital+Experiences." alt="Typing SVG" />
+  <p>
+    <a href="https://linkedin.com/in/souvik-das-597a0b300"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:arka122005@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/dasouvik122005"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 </div>
 
 ---
 
-### 🧐 About Me
+## 🧐 About Me
+<img align="right" alt="Coding GIF" width="32%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<img align="right" alt="Coding" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+Hi — I'm **Souvik Das**, a B.Tech CSE student at JIS University focused on frontend architecture and high-quality UX. I enjoy building fast, maintainable web apps and designing component-driven systems.
 
-Hi, I'm **Souvik**! I am a **B.Tech CSE student** at JIS University with a passion for combining logic with design.
+- 🔭 **Currently:** Advanced React, design systems, performance tuning  
+- 🌱 **Learning:** Accessibility, SSR/SSG patterns, Web Vitals optimization  
+- 💬 **Ask me about:** C, JavaScript, CSS animations, UI design  
+- 🤝 **Open to:** Open-source collaborations and frontend internships  
+- 📫 **Email:** arka122005@gmail.com
 
-I specialize in **Frontend Development** and enjoy creating intuitive, dynamic user experiences. When I'm not coding, I'm exploring Digital Marketing trends or designing graphics on Canva.
-
-* 🌱 **Currently learning:** React.js & Advanced UI/UX
-* 👯 **Looking to collaborate on:** Open Source Web Projects
-* 💬 **Ask me about:** C, JavaScript, CSS Animations
-
-<br clear="all" />
+<br clear="all"/>
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <br/>
-  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <!-- skillicons is clean & GitHub-friendly -->
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,typescript,git,github,vscode,linux,canva&perline=6&theme=dark" alt="tech icons" />
 </div>
 
+**Primary:** JavaScript, React, HTML5, CSS3, Tailwind  
+**Others:** C, Java, Git, GitHub, Canva, basic WordPress & Adobe tools
+
 ---
 
-### 📊 Analytics
+## 📂 Projects (Selected)
+> Short, actionable descriptions + repo links to help recruiters/maintainers quickly scan.
+
+- **Component Library** — Reusable React components with Storybook & TypeScript-ready patterns.  
+  `→` _Modular design, accessible primitives, theming support._
+
+- **Performance Dashboard** — Lighthouse-driven metrics, code-splitting, critical CSS extraction.  
+  `→` _Reduced TTFB and improved CLS on heavy pages._
+
+- **Green Diwali Campaign** — Poster design + social assets for awareness.  
+  `→` _Design + delivery for a campus campaign._
+
+> Browse all: https://github.com/dasouvik122005
+
+---
+
+## 📊 Analytics & Metrics
 <div align="center">
-  <img src="https://github.com/dasouvik122005/dasouvik122005/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <!-- GitHub activity & metrics — uses your username -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dasouvik122005&theme=react-dark&area=true" width="100%" alt="activity graph" />
   <br/><br/>
-  
+  <img src="https://raw.githubusercontent.com/dasouvik122005/dasouvik122005/main/github-metrics.svg" alt="github metrics" width="100%" />
+  <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dasouvik122005/dasouvik122005/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dasouvik122005/dasouvik122005/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/dasouvik122005/dasouvik122005/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/dasouvik122005/dasouvik122005/output/github-snake.svg" alt="github snake" width="60%"/>
   </picture>
 </div>
 
 ---
 
+## 📌 Quick Links & Badges
+[![Profile Views](https://komarev.com/ghpvc/?username=dasouvik122005&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/dasouvik122005)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasouvik122005&layout=compact&theme=react-dark)
+
+---
+
+## ✨ Accessibility & Notes
+- Images use SVG or stable raw URLs to avoid broken previews.  
+- Dark-friendly design preserves contrast on GitHub.  
+- Keep the README lightweight — heavy images only in project READMEs.
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dasouvik122005&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  <br/>
-  <i>Let's build something amazing together.</i>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0d1117,000000&height=40&section=footer&text=Made+with+%E2%9D%A4+by+Souvik+Das&fontColor=6b7280" width="100%" alt="footer"/>
 </div>
