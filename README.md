@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2c3e50,000000&height=180&section=header&text=SOUVIK%20DAS&fontSize=70&fontAlignY=50&animation=fadeIn&fontColor=00f2ff&desc=Frontend%20Architect%20%7C%20UI%2FUX%20Designer&descSize=18&descAlignY=75" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2c3e50,000000&height=180&section=header&text=SOUVIK%20DAS&fontSize=70&fontAlignY=50&animation=fadeIn&fontColor=00f2ff&desc=Frontend%20Dev%20%7C%20Machine%20Learning%20Enthusiast&descSize=18&descAlignY=75" width="100%" alt="Header" />
 
   <br/>
 
@@ -17,23 +17,23 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F2FF&background=00000000&center=true&vCenter=true&width=600&lines=Coding+the+Future+of+Web.;Turning+Ideas+into+Pixel-Perfect+Reality.;Specialized+in+React+%26+Modern+UI." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F2FF&background=00000000&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+Programmer.;Exploring+Data+%26+Machine+Learning.;Building+Smart+Web+Solutions." alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### ⚡ **Behind the Code**
+### ⚡ **About Me**
 
 <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95bW84eW02MG95bW84eW02MG95bW84eW02MG95bW84eW02MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVq2ZSgnrPGYjV/giphy.gif" />
 
-Hi, I'm **Souvik**. I don't just write code; I build **digital ecosystems**.
+Hi, I'm **Souvik**. I am a **Computer Science Student** with a strong foundation in programming and web technologies.
 
-I am a **Computer Science Engineer** focused on creating high-performance web applications. My passion lies in the intersection of **System Logic** and **Creative Design**.
+I started my journey building websites with **Frontend Technologies** and I am now expanding my skillset into the world of **AI & Machine Learning**.
 
-* 🔭 **Current Stack:** React.js, Tailwind CSS, TypeScript
-* 🚀 **Building:** Interactive Dashboards & AI Interfaces
-* 🎯 **Goal:** Becoming a Full-Stack Solutions Architect
+* 🔭 **Core Languages:** Python, C++, JavaScript
+* 🌱 **Currently Learning:** Machine Learning Algorithms & Data Science
+* 🚀 **Goal:** combining Web Development with AI integration.
 
 <br clear="all" />
 
@@ -42,15 +42,15 @@ I am a **Computer Science Engineer** focused on creating high-performance web ap
 ### 💻 **The Tech Stack**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend_Core-000000?style=flat-square&color=2c3e50" />
+  <img src="https://img.shields.io/badge/Core_Languages-000000?style=flat-square&color=2c3e50" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js&perline=5&theme=dark" />
   
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Backend_&_Tools-000000?style=flat-square&color=2c3e50" />
+  <img src="https://img.shields.io/badge/Tools_&_Environment-000000?style=flat-square&color=2c3e50" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,linux,canva&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&perline=5&theme=dark" />
 
 </div>
 
