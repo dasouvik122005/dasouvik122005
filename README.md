@@ -17,6 +17,9 @@
 ---
 
 ### 🧐 About Me
+
+<img align="right" alt="Coding" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 Hi, I'm **Souvik**! I am a **B.Tech CSE student** at JIS University with a passion for combining logic with design.
 
 I specialize in **Frontend Development** and enjoy creating intuitive, dynamic user experiences. When I'm not coding, I'm exploring Digital Marketing trends or designing graphics on Canva.
@@ -25,9 +28,7 @@ I specialize in **Frontend Development** and enjoy creating intuitive, dynamic u
 * 👯 **Looking to collaborate on:** Open Source Web Projects
 * 💬 **Ask me about:** C, JavaScript, CSS Animations
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
+<br clear="all" />
 
 ---
 
