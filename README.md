@@ -29,21 +29,13 @@ Hi, I'm Souvik Das, a B.Tech CSE student at JIS University with a strong interes
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
----
-
-# 📊 GitHub Stats:
-<div align="center">
-  <a href="https://github.com/dasouvik122005">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dasouvik122005&theme=aura&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/dasouvik122005">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasouvik122005&theme=aura&hide_border=true&layout=compact"/>
-  </a>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasouvik122005&theme=aura&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
+<table>
+  <tr>
+    <td><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasouvik122005&theme=aura&layout=compact&hide_border=false" /></td>
+    <td><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dasouvik122005&show_icons=true&theme=aura&hide_border=false" /></td>
+    <td><img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=dasouvik122005&theme=aura&hide_border=false" /></td>
+  </tr>
+</table>
 
 ## 🐍 My Contribution Snake
 <picture>
