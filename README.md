@@ -32,9 +32,16 @@ Hi, I'm Souvik Das, a B.Tech CSE student at JIS University with a strong interes
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dasouvik122005&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=dasouvik122005&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dasouvik122005&theme=aura&hide_border=false)<br/>
+<div align="center">
+  <a href="https://github.com/dasouvik122005">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dasouvik122005&theme=aura&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/dasouvik122005">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasouvik122005&theme=aura&hide_border=true&layout=compact"/>
+  </a>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasouvik122005&theme=aura&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
