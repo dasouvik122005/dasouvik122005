@@ -77,7 +77,17 @@ I believe in writing code that is **clean, efficient, and scalable**. My current
 <br/>
 
 <details>
-<summary><b>🔻 View Detailed Activity Graph</b></summary>
+<summary><b>🔻 View Detailed Metrics</b></summary>
 <br/>
 <div align="center">
-  <img src="
+  <img src="https://github.com/dasouvik122005/dasouvik122005/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="100%">
+</div>
+</details>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1TVq2ZSgnrPGYjV/giphy.gif" width="100%" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=dasouvik122005&label=Profile%20Views&color=3591F7&style=for-the-badge" alt="Profile Views"/>
+</div>
