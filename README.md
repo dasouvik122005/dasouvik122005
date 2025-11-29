@@ -80,7 +80,7 @@ I believe in writing code that is **clean, efficient, and scalable**. My current
 <summary><b>🔻 View Detailed Metrics</b></summary>
 <br/>
 <div align="center">
-  <img src="https://github.com/dasouvik122005/dasouvik122005/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="100%">
+  <img src="https://github.com/dasouvik122005/dasouvik122005/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 </details>
 
