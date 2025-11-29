@@ -38,7 +38,7 @@ I am **Souvik**, a **Computer Science Student** focusing on the intersection of 
 
 I believe in writing code that is **clean, efficient, and scalable**. My current focus is bridging the gap between web applications and intelligent algorithms.
 
-* 🛠️ **Strong Foundation:** C++, Python, JavaScript
+* 🛠️ **Strong Foundation:** C, C++, Python, JavaScript
 * 🧠 **Current Focus:** Machine Learning & Neural Networks
 * 🎯 **Career Goal:** AI-Integrated Web Solutions
 
