@@ -29,11 +29,14 @@ Hi, I'm Souvik Das, a B.Tech CSE student at JIS University with a strong interes
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasouvik122005&layout=compact&theme=aura&hide_border=false)<br/>
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasouvik122005&show_icons=true&theme=aura&hide_border=false)<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dasouvik122005&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dasouvik122005&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dasouvik122005&theme=aura&hide_border=false)<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dasouvik122005&theme=aura&hide_border=false)<br/>
+---
 
 
 ## 🐍 My Contribution Snake
