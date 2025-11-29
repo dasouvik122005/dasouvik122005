@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,2c3e50&height=200&section=header&text=SOUVIK%20DAS&fontSize=60&animation=fadeIn&fontColor=ffffff&desc=Computer%20Science%20%7C%20Machine%20Learning&descSize=20&descAlignY=60" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=141E30,243B55&height=200&section=header&text=SOUVIK%20DAS&fontSize=60&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=Computer%20Science%20%7C%20Machine%20Learning&descSize=20&descAlignY=70" width="100%" alt="Header" />
 
   <br/>
 
@@ -17,7 +17,7 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3591F7&background=00000000&center=true&vCenter=true&width=500&lines=Building+logic+with+C%2B%2B+and+Python.;Crafting+interfaces+with+JS+and+React.;Exploring+the+world+of+AI+Models." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=243B55&background=00000000&center=true&vCenter=true&width=500&lines=Building+logic+with+C%2B%2B+and+Python.;Crafting+interfaces+with+JS+and+React.;Exploring+the+world+of+AI+Models." alt="Typing SVG" />
   </a>
 </div>
 
@@ -43,13 +43,13 @@ I believe in writing code that is **clean, efficient, and scalable**. My current
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Languages-000000?style=flat-square&color=1c1c1c" />
+  <img src="https://img.shields.io/badge/Languages-000000?style=flat-square&color=141E30" />
   <br/>
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js&perline=5&theme=dark" />
   
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Dev_Tools-000000?style=flat-square&color=1c1c1c" />
+  <img src="https://img.shields.io/badge/Dev_Tools-000000?style=flat-square&color=141E30" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=5&theme=dark" />
 
@@ -82,5 +82,5 @@ I believe in writing code that is **clean, efficient, and scalable**. My current
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c3e50,000000&height=80&section=footer&text=Souvik%20Das&fontSize=14&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=243B55,141E30&height=80&section=footer&text=Souvik%20Das&fontSize=14&fontColor=ffffff" width="100%" />
 </div>
