@@ -15,7 +15,14 @@ Hi, I'm Souvik Das, a B.Tech CSE student at JIS University with a strong interes
 ---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg//channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61559620440534) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/das_ouvik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souvik-das-597a0b300) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dasouvik122005/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/settings/account) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/souvik12102005?t=xWfBoco7zrllPg-5uIzj-A&s=08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arka122005@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_CODE) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61559620440534) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/das_ouvik) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souvik-das-597a0b300) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dasouvik122005/) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/YOUR_REDDIT_USERNAME) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/souvik12102005?t=xWfBoco7zrllPg-5uIzj-A&s=08) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arka122005@gmail.com)
 
 ---
 
@@ -56,9 +63,5 @@ Hi, I'm Souvik Das, a B.Tech CSE student at JIS University with a strong interes
 ---
 
 <img src="https://komarev.com/ghpvc/?username=dasouvik122005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=dasouvik122005&icon=0&color=7)](https://visitcount.itsvg.in)
 
 </div>
