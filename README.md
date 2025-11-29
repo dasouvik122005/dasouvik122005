@@ -87,7 +87,5 @@ I believe in writing code that is **clean, efficient, and scalable**. My current
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVq2ZSgnrPGYjV/giphy.gif" width="100%" />
-  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=dasouvik122005&label=Profile%20Views&color=3591F7&style=for-the-badge" alt="Profile Views"/>
 </div>
