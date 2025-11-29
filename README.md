@@ -5,7 +5,7 @@
   
   <br/><br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3591F7&center=true&vCenter=true&width=380&lines=Hi%2C+I'm+Souvik+Das!;Frontend+Developer;Building+Digital+Experiences." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3591F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Souvik+Das!;Frontend+Developer;Building+Digital+Experiences." alt="Typing SVG" />
 
   <p>
     <a href="https://linkedin.com/in/souvik-das-597a0b300"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
