@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,1c1c1c&height=150&section=header&text=SOUVIK%20DAS&fontSize=60&fontAlignY=50&animation=fadeIn&fontColor=ffffff&desc=Computer%20Science%20%7C%20Machine%20Learning&descSize=16&descAlignY=76" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=poly&color=gradient&customColorList=0f2027,203a43,2c5364&height=180&section=header&text=SOUVIK%20DAS&fontSize=60&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=Computer%20Science%20%7C%20Machine%20Learning&descSize=16&descAlignY=70" width="100%" alt="Header" />
 
   <br/>
 
@@ -42,6 +42,7 @@ I believe in writing code that is **clean, efficient, and scalable**. My current
 ### 💻 **Technical Stack**
 
 <div align="center">
+  
   <img src="https://img.shields.io/badge/Languages-000000?style=flat-square&color=1c1c1c" />
   <br/>
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js&perline=5&theme=dark" />
@@ -81,5 +82,5 @@ I believe in writing code that is **clean, efficient, and scalable**. My current
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1c1c1c,000000&height=50&section=footer&text=Souvik%20Das&fontSize=14&fontColor=555555" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=poly&color=gradient&customColorList=2c5364,203a43,0f2027&height=80&section=footer&text=Souvik%20Das&fontSize=14&fontColor=ffffff" width="100%" />
 </div>
