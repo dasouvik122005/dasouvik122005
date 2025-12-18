@@ -20,8 +20,8 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3591F7&background=00000000&center=true&vCenter=true&width=500&lines=Building+logic+with+C%2B%2B+and+Python.;Crafting+interfaces+with+JS+and+React.;Exploring+the+world+of+AI+Models](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+Welcome+to+my+digital+space
-)." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+Welcome+to+my+digital+space
+." alt="Typing SVG" />
   </a>
 </div>
 
